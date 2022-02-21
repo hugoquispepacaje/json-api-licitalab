@@ -1,10 +1,18 @@
 {
   "tareas": [
     {
-      "id": 1,
-      "descripcion": "Tarea",
-      "fecha_creacion": "1645218161",
-      "fecha_vencimiento": "1645326000"
+      "descripcion": "Inicial 2",
+      "fecha_creacion": "2022-02-21T14:58:10.161Z",
+      "fecha_vencimiento": "2022-02-17T03:00:00.000Z",
+      "is_complete": true,
+      "id": 1
+    },
+    {
+      "descripcion": "Note1",
+      "fecha_creacion": "2022-02-21T14:58:59.815Z",
+      "fecha_vencimiento": "2022-02-11T03:00:00.000Z",
+      "is_complete": false,
+      "id": 2
     }
   ]
 }
